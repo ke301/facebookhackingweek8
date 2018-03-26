@@ -54,6 +54,10 @@ Vulnerability #1: Insecure Direct Object Reference
 
 Vulnerability #2: Cross Site Request Forgery
 
+![alt text][logo5]
+
+[logo5]:https://github.com/ke301/facebookhackingweek8/blob/master/red2.gif
+
 
 ## Notes
 
