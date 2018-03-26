@@ -31,6 +31,10 @@ Vulnerability #2: SQL injection
 
 Vulnerability #1: Username Enumeration
 
+![alt text][logo2]
+
+[logo2]:https://github.com/ke301/facebookhackingweek8/blob/master/green1.gif
+
 Vulnerability #2: Cross Site Scripting
 
 
