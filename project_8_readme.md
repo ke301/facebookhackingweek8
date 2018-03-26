@@ -18,6 +18,10 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 
 Vulnerability #1: Session hijacking / Session fixation
 
+![alt text][logo6]
+
+[logo6]: https://github.com/ke301/facebookhacking/blob/Week-7/bruteforce.gif
+
 Vulnerability #2: SQL injection
 
 
