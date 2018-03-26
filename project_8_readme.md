@@ -18,7 +18,9 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 
 Vulnerability #1: Session hijacking / Session fixation
 
+![alt text][logo0]
 
+[logo0]:https://github.com/ke301/facebookhackingweek8/blob/master/blue2.gif
 
 Vulnerability #2: SQL injection
 
